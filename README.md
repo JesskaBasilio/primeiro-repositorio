@@ -1,2 +1,2 @@
-# primeiro-repositorio
-Primeiro repositório - desafio DIO
+# Primeiro Repositório
+Aprendendo a criar meu repositório e a utilizar o git/gitbash.
