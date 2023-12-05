@@ -1,9 +1,10 @@
 
-# **Meu Primeiro Repositório: Aprendendo Git, GitHub e Markdown**
+# **Meu Primeiro Repositório: Aprendendo Git, GitHub e Markdown** 
+
 
 Bem-vindo ao meu primeiro repositório! Aqui, estou embarcando na emocionante jornada de aprender sobre o Git, GitHub e a arte de utilizar o Markdown.
 
-## Sobre Git e GitHub<br>
+## Sobre Git e GitHub<br>![Alt](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Alt](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
 
 <p>O Git é um sistema de controle de versão distribuído que possibilita o rastreamento de alterações em arquivos ao longo do tempo. Ele é fundamental para o desenvolvimento de software colaborativo, permitindo que equipes trabalhem de maneira eficiente em projetos.<p>
 
