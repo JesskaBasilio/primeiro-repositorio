@@ -1,5 +1,7 @@
 
-# **Meu Primeiro Repositório: Aprendendo Git, GitHub e Markdown** 
+# **Meu Primeiro Repositório: Aprendendo Git, GitHub e Markdown**
+
+![Alt](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
 
 Bem-vindo ao meu primeiro repositório! Aqui, estou embarcando na emocionante jornada de aprender sobre o Git, GitHub e a arte de utilizar o Markdown.
 
