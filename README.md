@@ -93,5 +93,25 @@ Bem-vindo ao meu primeiro repositório! Aqui, estou embarcando na emocionante jo
 
 ```git push origin nome-da-branch```
 
+# Markdown: Uma Linguagem Simples de Marcação
+
+O **Markdown** é uma linguagem de marcação leve e fácil de usar, projetada para simplificar a formatação de textos na web. Desenvolvido por John Gruber e Aaron Swartz, o Markdown oferece uma maneira intuitiva e eficiente de criar documentos com formatação básica, sem a necessidade de utilizar códigos complexos.
+
+## Principais Características
+
+1. **Sintaxe Simples:** A sintaxe do Markdown é minimalista e fácil de aprender. Utiliza caracteres simples, como asteriscos, underscores e cerquilhas, para indicar elementos de formatação.
+
+2. **Texto Puro:** Um dos principais atrativos do Markdown é que o código fonte é legível mesmo sem ser processado. Isso facilita a colaboração e o controle de versão dos documentos.
+
+## Exemplos Básicos
+
+### Títulos
+
+# Título 1
+## Título 2
+### Título 3
+
+
+
 ## Contribuindo
 <p>Sinta-se à vontade para contribuir para este repositório. Faça um fork, implemente suas alterações e envie um pull request!!<p>
